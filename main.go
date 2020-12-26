@@ -4,7 +4,7 @@ import (
 	"net/url"
 	"os"
 
-	"github.com/chakrakan/job-scrapper/scraper"
+	"github.com/chakrakan/jobseekr/scraper-v2/scraper"
 	"github.com/labstack/echo"
 )
 
